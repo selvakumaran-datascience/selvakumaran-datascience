@@ -18,7 +18,7 @@ Aspiring Data Scientist and Data Analyst with skills in Python, SQL, Power BI, a
 - Stock Market Trend Analysis
 
 ## Contact
-LinkedIn: [http://linkedin.com/in/selvakumaran-muthusamy-376831379]]
+LinkedIn: [http://linkedin.com/in/selvakumaran-muthusamy-376831379]
 
 Email: [selvakumaran416@gmail.com]
 
