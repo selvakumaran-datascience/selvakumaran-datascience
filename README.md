@@ -1,207 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm SELVAKUMARAN MUTHUSAMY
+# 👋 Hi, I'm Selvakumaran Muthusamy
 
 ### 🚀 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Engineer;Power+BI+Developer;SQL+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;SQL+Developer;Power+BI+Developer;Always+Learning+New+Things!" />
 
-<img src="https://komarev.com/ghpvc/?username=selvakumaran-datascience&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-🎓 Aspiring **Data Scientist** passionate about solving real-world problems using data.
-
-📊 Skilled in **Python, SQL, Power BI, Machine Learning, Data Analytics, and AWS**
-
-💼 4+ Years of Experience in **Real Estate & Stock Market Analysis**
-
-📈 Passionate about AI, Predictive Analytics, Data Visualization, and Business Intelligence.
-
-🌱 Currently learning
-
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-- MLOps
-
-🎯 Goal
-
-Become a Machine Learning Engineer and build AI products that solve real business problems.
-
----
-
-# 🚀 Technical Skills
-
-### 👨‍💻 Programming
-
-- Python
-- SQL
-
-### 📊 Data Analytics
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Statistical Analysis
-
-### 🤖 Machine Learning
-
-- Classification
-- Regression
-- Hyperparameter Tuning
-- Model Evaluation
-- Random Forest
-- XGBoost
-- Logistic Regression
-- Decision Trees
-
-### 📈 Visualization
-
-- Power BI
-- Matplotlib
-- Seaborn
-
-### 🌐 Web Framework
-
-- Streamlit
-
-### ☁ Cloud
-
-- AWS
-
-### 🗄 Database
-
-- MySQL
-
-### 🧰 Libraries
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- OpenCV
-
----
-
-# 💻 Featured Projects
-
-## 🚦 UrbanBot Smart City Intelligence
-
-AI-powered smart city monitoring system.
-
-### Features
-
-- 🚗 Traffic Monitoring
-- 🚨 Accident Detection
-- 🛣️ Road Damage Detection
-- 👥 Crowd Detection
-- 📧 Email Alert System
-- 🤖 AI Agent Integration
-
-**Tech Stack**
-
-YOLO • Python • Streamlit • MySQL • AWS
-
----
-
-## 👨‍💼 Employee Attrition Prediction
-
-Predict employee resignation using Machine Learning.
-
-✔ HR Dashboard
-
-✔ Attrition Prediction
-
-✔ Employee Insights
-
-**Tech Stack**
-
-Python • Streamlit • Scikit-Learn
-
----
-
-## 🩺 AI Health Assistant
-
-Multiple Disease Prediction System
-
-- Kidney Disease Prediction
-- Liver Disease Prediction
-- Parkinson's Disease Prediction
-
-**Tech Stack**
-
-Python • Machine Learning • Streamlit
-
----
-
-## 🚔 SecureCheck Police Dashboard
-
-Police Check Post Analytics Dashboard
-
-- SQL Analytics
-- Dashboard
-- Crime Insights
-- Prediction System
-
----
-
-## 📈 Stock Market Prediction
-
-Machine Learning model for stock price forecasting.
-
-- Time Series Analysis
-- Random Forest
-- XGBoost
-- Technical Indicators
-
----
-
-# 🏆 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvakumaran-datascience&theme=github_dark"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=selvakumaran-datascience&theme=github-dark"/>
-
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=selvakumaran-datascience&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 Certifications
-
-- Data Science - GUVI
-- Python Programming
-- SQL
-- Machine Learning
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
+<br>
 
 <a href="https://github.com/selvakumaran-datascience">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -215,15 +20,200 @@ Machine Learning model for stock price forecasting.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💡 Quote
+# 💫 About Me
 
-> **"Data is the new oil, but insights are the real fuel."**
+🎓 Aspiring **Data Scientist** with a passion for turning raw data into meaningful insights.
+
+💼 **4+ years of experience** in Real Estate and Stock Market Analysis.
+
+📊 Interested in
+
+- Machine Learning
+- Artificial Intelligence
+- Data Analytics
+- Business Intelligence
+- Predictive Analytics
+
+🌱 Currently Learning
+
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- MLOps
+
+🎯 Career Goal
+
+Become a Machine Learning Engineer and build AI solutions that solve real-world business problems.
 
 ---
+
+# 💻 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=flat-square)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)
+
+### Dashboard
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+
+---
+
+# 🚀 Featured Projects
+
+## 🌆 UrbanBot Smart City Intelligence
+
+AI-powered Smart City Monitoring System
+
+✔ Traffic Monitoring
+
+✔ Accident Detection
+
+✔ Road Damage Detection
+
+✔ Crowd Detection
+
+✔ Email Alert System
+
+✔ Streamlit Dashboard
+
+**Tech Stack**
+
+Python • YOLO • OpenCV • Streamlit • AWS • MySQL
+
+---
+
+## 🩺 AI Health Assistant
+
+Multiple Disease Prediction System
+
+- Kidney Disease
+- Liver Disease
+- Parkinson's Disease
+
+**Tech Stack**
+
+Python • Scikit-Learn • Streamlit
+
+---
+
+## 👨‍💼 Employee Attrition Prediction
+
+Machine Learning model to predict employee attrition.
+
+✔ HR Analytics
+
+✔ Dashboard
+
+✔ Prediction System
+
+---
+
+## 🚔 SecureCheck Police Dashboard
+
+Police Check Post Analytics Dashboard
+
+✔ SQL Analytics
+
+✔ Dashboard
+
+✔ Prediction System
+
+✔ MySQL
+
+---
+
+## 📈 Stock Market Prediction
+
+Machine Learning-based stock prediction system.
+
+- Technical Indicators
+- Feature Engineering
+- Random Forest
+- XGBoost
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 Generative AI
+- 🧠 Large Language Models
+- ☁ AWS
+- 🐳 Docker
+- ⚡ FastAPI
+
+---
+
+# 🏆 Achievements
+
+🏅 Data Science Certification – GUVI
+
+📊 Built multiple end-to-end Machine Learning projects
+
+💻 Developed interactive Streamlit applications
+
+📈 Strong understanding of Data Analytics and Machine Learning
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+
+**selvakumaran416@gmail.com**
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/selvakumaran-muthusamy-376831379
+
+💻 **GitHub**
+
+https://github.com/selvakumaran-datascience
+
+---
+
+# 💬 Quote
+
+> **"Without data, you're just another person with an opinion." – W. Edwards Deming**
+
+---
+
+<div align="center">
+
+## ⭐ Thank You for Visiting My Profile!
+
+### If you like my work, consider following me and checking out my repositories.
+
+🚀 **Let's Connect and Build Amazing AI Solutions Together!**
+
+</div>
 
 <div align="center">
 
