@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Selvakumaran Muthusamy
+# 👋 Hi, I'm SELVAKUMARAN MUTHUSAMY
 
 ### 🚀 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
 
@@ -164,9 +164,9 @@ Machine Learning model for stock price forecasting.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=selvakumaran-datascience&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=selvakumaran-datascience&show_icons=true&theme=tokyo-night"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumaran-datascience&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumaran-datascience&layout=compact&theme=tokyo-night"/>
 
 </p>
 
@@ -176,7 +176,7 @@ Machine Learning model for stock price forecasting.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=selvakumaran-datascience&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=selvakumaran-datascience&theme=tokyo-night"/>
 
 </p>
 
