@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Selvakumaran Muthusamy
+# 👋 Hi, I'm SELVAKUMARAN MUTHUSAMY
 
 ### 🚀 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
 
