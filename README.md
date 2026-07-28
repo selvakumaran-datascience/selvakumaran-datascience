@@ -164,9 +164,7 @@ Machine Learning model for stock price forecasting.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=selvakumaran-datascience&show_icons=true&theme=tokyo-night"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumaran-datascience&layout=compact&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvakumaran-datascience&theme=github_dark"/>
 
 </p>
 
@@ -176,7 +174,7 @@ Machine Learning model for stock price forecasting.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=selvakumaran-datascience&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=selvakumaran-datascience&theme=github-dark"/>
 
 </p>
 
